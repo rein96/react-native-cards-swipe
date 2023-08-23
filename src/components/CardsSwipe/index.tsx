@@ -23,6 +23,7 @@ import SwipePan, { SWIPE_DIRECTION } from '../SwipePan';
 import CardWrap from '../CardWrap';
 
 import styles from './styles';
+import type { CardsSwipeRefObject } from 'types';
 
 const { width } = Dimensions.get('window');
 
